@@ -1,0 +1,22 @@
+{
+  "name": "skin-tool",
+  "version": "1.0.0",
+  "description": "An api that utilizes skin-tool-cv to obtain custom skins based on masks, and uploads them to the mojang api (using mineskin). It also stores all the skins collections onto a cache for long term storage to reduce latency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfinityZ25/skin-tool-js.git"
+  },
+  "keywords": [
+    "opencv"
+  ],
+  "author": "jcedeno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfinityZ25/skin-tool-js/issues"
+  },
+  "homepage": "https://github.com/InfinityZ25/skin-tool-js#readme"
+}
